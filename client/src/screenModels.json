@@ -134,6 +134,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "newString": {
+        "type": "string"
       }
     },
     "id": "login",
